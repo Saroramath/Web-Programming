@@ -1,0 +1,19 @@
+div{ 
+    
+    width: 500px; height: 100px; background-color: bisque;   color:rgb(114, 129, 214); text-align: center; padding: 20px;
+    margin: 20px; font-family: cursive, sans-serif; font-size: 20px; border: darkolivegreen 3px solid; 
+
+}
+h1{color:rgb(189, 143, 158); text-align: center;}
+img{margin: 20px;}
+#foo{color: lightgrey;}
+#baz{
+    color: rgb(99, 6, 20); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: palegoldenrod;
+}
+.container{
+display: flex;
+flex-wrap: wrap;
+}
+a{color: rgb(87, 15, 45);}
+a:hover{color: cadetblue;}
